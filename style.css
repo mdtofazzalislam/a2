@@ -115,3 +115,38 @@ body {
     font-size: 26px;
 
 }
+
+/* @media only screen and (max-width:688px) { 
+    .top-section {
+        width: 360px;
+        height: 965;
+    }
+
+    .top-div {
+        display: flex;
+        flex-direction: column;
+
+    }
+
+    .title {
+        width: 278px;
+        height: 138px;
+    }
+
+    .top-pic {
+        width: 329px;
+        height: 259px;
+    }
+
+    #top-images {
+        width: 325px;
+        height: 255px;
+
+    }
+
+    .main-section,
+    .footer-section {
+        display: none;
+    }
+
+}*/
